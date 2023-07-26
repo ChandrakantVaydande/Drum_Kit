@@ -1,0 +1,74 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: sans-serif;
+    background-color: aqua;
+}
+
+.container {
+    font-size: 40px;
+    position: relative;
+    left: 480px;
+}
+
+.button {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    height: 100px;
+    width: 90%;
+    margin: auto;
+    position: relative;
+    top: 200px;
+}
+
+.button1 {
+    height: 150px;
+    width: 150px;
+    font-size: 100px;
+    font-weight: bolder;
+
+}
+
+.button2 {
+    height: 150px;
+    width: 150px;
+    font-size: 100px;
+    font-weight: bolder;
+}
+
+.button3 {
+    height: 150px;
+    width: 150px;
+    font-size: 100px;
+    font-weight: bolder;
+}
+
+.button4 {
+    height: 150px;
+    width: 150px;
+    font-size: 100px;
+    font-weight: bolder;
+}
+
+.button5 {
+    height: 150px;
+    width: 150px;
+    font-size: 100px;
+    font-weight: bolder;
+}
+
+.button6 {
+    height: 150px;
+    width: 150px;
+    font-size: 100px;
+    font-weight: bolder;
+}
+
+.button7 {
+    height: 150px;
+    width: 150px;
+    font-size: 100px;
+    font-weight: bolder;
+}
